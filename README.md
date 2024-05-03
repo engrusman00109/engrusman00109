@@ -80,8 +80,8 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 ## Social
 
 <p align="center">
-<a href="mailto:musma00109@gmail.com"><img alt="Email" ></a>
-<a href="www.linkedin.com/in/muhammad-usman-akram-b29685251"><img alt="Linkedin" ></a>
+<a href="mailto:musma00109@gmail.com" >Email</a>
+<a href="www.linkedin.com/in/muhammad-usman-akram-b29685251">LinkedIn</a>
 </p>
 
 
@@ -113,7 +113,7 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 <table>
   <tr>
     <td>
-      <a href="https://github.com/engrusman00109/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq7&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+      <a href="https://github.com/engrusman00109/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=engrusman00109&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/engrusman00109/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrusman00109&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
