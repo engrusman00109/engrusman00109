@@ -12,26 +12,22 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-🎓 I hold a B.Sc in Computer Systems Engineering.
-🤖 Passionate Machine Learning Engineer with a strong foundation in AI and data science.
-🐍 Expert in Python, proficient in libraries such as NumPy , Pandas , Matplotlib and Seaborn for data manipulation and Visualization .
-📚 Experienced with scikit-learn for building and evaluating machine learning models.
-🤖 Skilled in TensorFlow for developing and deploying deep learning models
-📊 Skilled in developing machine learning models and data-driven solutions.
-💡 Constantly exploring new technologies and enhancing my understanding of ML, DL, and AI.
-✍️ An avid writer, sharing my thoughts and experiences in the tech world.
-🔍 Dedicated problem solver with a knack for competitive programming.
-🌱 Continuously learning about advanced algorithms and techniques in data analysis, ML, and DL.
-✍️ Active participant in various innovation projects.
-📫 Feel free to reach out to me at: musman00109@gmail.com ⚛️
-🎵 Fun fact: I enjoy coding to the rhythm of my favorite tunes! 🎸
+🎓 I hold a B.Sc in Computer Systems Engineering.<br>
+🤖 Passionate Machine Learning Engineer with a strong foundation in AI and data science.<br>
+🐍 Expert in Python, proficient in libraries such as NumPy , Pandas , Matplotlib and Seaborn for data manipulation and Visualization .<br>
+📚 Experienced with scikit-learn for building and evaluating machine learning models.<br>
+🤖 Skilled in TensorFlow for developing and deploying deep learning models.<br>
+📊 Skilled in developing machine learning models and data-driven solutions.<br>
+💡 Constantly exploring new technologies and enhancing my understanding of ML, DL, and AI.<br>
+✍️ An avid writer, sharing my thoughts and experiences in the tech world.<br>
+🔍 Dedicated problem solver with a knack for competitive programming.<br>
+🌱 Continuously learning about advanced algorithms and techniques in data analysis, ML, and DL.<br>
+✍️ Active participant in various innovation projects.<br>
+📫 Feel free to reach out to me at: musman00109@gmail.com ⚛️<br>
+🎵 Fun fact: I enjoy coding to the rhythm of my favorite tunes! 🎸<br>
 
 
-I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician working in Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
 
-## Like My Work? : <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
-
-<a href="https://www.buymeacoffee.com/Wandrys" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
