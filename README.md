@@ -82,7 +82,7 @@
 
 <p align="center">
 <a href="mailto:musma00109@gmail.com" >Email</a>
-<a href="www.linkedin.com/in/muhammad-usman-akram-b29685251">LinkedIn</a>
+<a href="https://www.linkedin.com/in/muhammad-usman-akram-b29685251/">LinkedIn</a>
 </p>
 
 
