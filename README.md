@@ -12,14 +12,19 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-- 🎓 I am a Computer System Engineer! 🐺
-- ✍️ I'm a writer of my thoughts.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate Programmer, Python Developer, problem solving Skills and a Competitive Programmer.
-- 🌱 &nbsp; Learning more about Data Analysis, Data Science , ML and DL.
-- ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: musman00109@gmail.com ⚛️
-- ⚡ Fun fact: I love listening to music  and do coding! 🎸
+🎓 I hold a B.Sc in Computer Systems Engineering.
+🤖 Passionate Machine Learning Engineer with a strong foundation in AI and data science.
+🐍 Expert in Python, proficient in libraries such as NumPy , Pandas , Matplotlib and Seaborn for data manipulation and Visualization .
+📚 Experienced with scikit-learn for building and evaluating machine learning models.
+🤖 Skilled in TensorFlow for developing and deploying deep learning models
+📊 Skilled in developing machine learning models and data-driven solutions.
+💡 Constantly exploring new technologies and enhancing my understanding of ML, DL, and AI.
+✍️ An avid writer, sharing my thoughts and experiences in the tech world.
+🔍 Dedicated problem solver with a knack for competitive programming.
+🌱 Continuously learning about advanced algorithms and techniques in data analysis, ML, and DL.
+✍️ Active participant in various innovation projects.
+📫 Feel free to reach out to me at: musman00109@gmail.com ⚛️
+🎵 Fun fact: I enjoy coding to the rhythm of my favorite tunes! 🎸
 
 
 I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician working in Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
